@@ -1,0 +1,28 @@
+name: Bergkristal
+favicon: null
+layout_spectrum: 0.2629855200648308
+typography_spectrum: 0.6548058551270515
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.24130642716772854
+  lightness: 0.5029846916440874
+  saturation: 0.9379304039757699
+  rhythmicContrast: 0.8848000932484865
+purpose: []
